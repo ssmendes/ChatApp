@@ -1,0 +1,4 @@
+# ChatApp
+Projeto de um aplicativo de bate-papo completo usando PHP com MySQL e JavaScript. Neste aplicativo de bate-papo, primeiro você deve se inscrever se for novo no ChatApp e, depois de se inscrever com sucesso, será redirecionado para a página da área de usuários, onde usuários como você que se inscreveram neste aplicativo de bate-papo aparecerão lá com seu nome completo, imagem de perfil, status ativo e assim por diante.
+
+Você pode selecionar qualquer usuário para começar a conversar com eles. Você também pode sair facilmente do aplicativo de bate-papo clicando no botão de logout e, após o logout bem-sucedido, você será redirecionado para a página de login do aplicativo de bate-papo e seu status ficará offline para outros usuários inscritos. Você precisa fazer login com seu e-mail e senha cadastrados para entrar na página de bate-papo novamente.
